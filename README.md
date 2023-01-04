@@ -96,7 +96,7 @@ Machine Learning Models Used
 4. Recall High Risk: .91
 5. Recall Low Risk: .94
 
-##Summary 
+## Summary 
 The EasyEnsembleClassifer model had the best balanced accuracy score of .93. Other models has os score of below .80. The recall score were also considerably better with this model with a high/low recall score of .91/.94. Finally the precision for the high risk was better than any of the models even though it was just .07. 
 
 Unbalanced data is an issue especially when looking to avoid risk. Using and evaluating several machine models is important to help minimize the risk as much as possible. Also it goes without saying that domain knowledge is critical in taking a look at the model output to ensure domain expertise can be documented so anyone using the model has that perspective along with the data. 
