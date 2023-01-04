@@ -85,7 +85,7 @@ Machine Learning Models Used
 ##### List of features from high to low 
 ![features](images/5_BalRandomTree_features.png)
 
-###EasyEnsembleClassificer  
+### EasyEnsembleClassificer  
 ![accuracy](images/6_Easy_accuracy.png)
 ![matrix](images/6_Easy_matrix.png)
 ![report](images/6_Easy_classification_report.png)
