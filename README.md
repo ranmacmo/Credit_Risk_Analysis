@@ -60,7 +60,7 @@ Machine Learning Models Used
 4. Recall High Risk: .60
 5. Recall Low Risk: .44 
 
-###SMOTEENN (combination) 
+### SMOTEENN (combination) 
 ![accuracy](images/4_Combo_accuracy.png)
 ![matrix](images/4_Combo_matrix.png)
 ![report](images/4_Combo_classification_report.png)
@@ -71,7 +71,7 @@ Machine Learning Models Used
 4. Recall High Risk: .71
 5. Recall Low Risk: .53
 
-###Balanced Random Forest
+### Balanced Random Forest
 ![accuracy](images/5_BalRandomTree_accuracy.png)
 ![matrix](images/5_BalRandomTree_matrix.png)
 ![report](images/5_BalRandomTree_classification_report.png)
